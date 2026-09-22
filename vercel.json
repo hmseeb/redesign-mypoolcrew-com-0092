@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/admin",
+      "destination": "https://vision.leadrai.com/site-admin/site-818796c111d9f7555c240fa2513920159902",
+      "permanent": false
+    }
+  ]
+}
